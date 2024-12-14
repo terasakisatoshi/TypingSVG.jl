@@ -1,1 +1,4 @@
 # TypingSVG.jl
+
+![Typing SVG](https://readme-typing-svg.demolab.com?weight=400&height=300&size=20&duration=1000&multiline=true&font=Fira%20Code&separator=%3B%3B&pause=200&vcenter=false&background=%23000000FF&random=false&center=false&letterSpacing=normal&lines=%24%20git%20clone%20https%3A%2F%2Fgithub.com%2Fterasakisatoshi%2FTypingSVG.jl.git%3B%3B%24%20cd%20TypingSVG.jl%3B%3B%24%20ls%3B%3BREADME.md%20%20%20%20%20src%20%20%20%20%20Project.toml%3B%3B%24%20julia%20--project%20-e%20%27using%20Pkg%3B%20Pkg.instantiate%28%29%27%3B%3B%24%20julia%20--project%20-q%3B%3Bjulia%3E%20using%20TypingSVG%3B%20mdbadge_file%28%22sample.jl%22%29%20%7C%3E%20clipboard%3B%3Bjulia%3E%20%23%20Insert%20the%20result%20into%20your%20README.md%3B%3Bjulia%3E%20%23%20Enjoy%3B%3Bjulia%3E%20exit%28%29%3B%3B%24&color=%23B3E053&repeat=true&width=800)
+

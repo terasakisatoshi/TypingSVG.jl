@@ -33,7 +33,7 @@ The rest of the keys should be the same as in https://readme-typing-svg.demolab.
     multiline::Bool = true # Multiline
     repeat::Bool = true # Repeat
     random::Bool = false # Random
-    width::Int = 700 # Width
+    width::Int = 800 # Width
     height::Int = 300 # Height
     separator::String = ";;"
 end
