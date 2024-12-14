@@ -1,0 +1,12 @@
+name = "TypingSVG"
+uuid = "60540479-024c-4acd-b042-f9c88c2a6698"
+authors = ["SatoshiTerasaki <terasakisatoshi.math@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CodeEvaluation = "5a076611-96cb-4f02-9d3a-9e309f06f8ff"
+URIs = "5c2747f8-b7ea-4ff2-ba2e-563bfd36b1d4"
+
+[compat]
+CodeEvaluation = "0.0.1"
+URIs = "1.5.1"
