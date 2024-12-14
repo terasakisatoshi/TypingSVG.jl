@@ -3,7 +3,7 @@ module TypingSVG
 using URIs
 using CodeEvaluation
 
-export mdbadge, mdbadge_file
+export mdbadge, mdbadge_file, QueryParameter
 
 """
     QueryParameter
